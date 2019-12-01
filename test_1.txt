@@ -4,3 +4,4 @@ git add *
 hi
 123
 stash
+commit message
